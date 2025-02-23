@@ -1,4 +1,4 @@
-## Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=6D93DA&random=false&width=435&lines=<+Independent+Software+Vendor+/>)](https://git.io/typing-svg)
 
 <!--
 
