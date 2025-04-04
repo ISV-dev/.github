@@ -1,12 +1,19 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=6D93DA&random=false&width=435&lines=<+Independent+Software+Vendor+/>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=6D93DA&random=false&width=435&lines=<+Independent+Software+Vendor+/>)](https://git.io/typing-svg)
 
-<!--
+## ℹ️ About Us
 
-**Here are some ideas to get you started:**
+ISV Company specializes in connecting elite technical talent with leading financial institutions and enterprises. Using AI-powered matching algorithms, we build high-performing teams tailored to tackle ambitious digital challenges.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ⚡Our Approach
+
+We go beyond traditional recruitment to create teams that reach maximum efficiency from day one.
+
+### 📌 Key Advantages
+
+- **AI-Powered Matching**: Perfect team combinations
+- **Elite Talent Pool**: Top-tier developers and specialists
+- **Performance Focus**: Maximum efficiency
+- **Enterprise Ready**: Experience with major banking institutions
+
+## Contact Us
+- Email: [contact@isv.company](mailto:contact@isv.company)
