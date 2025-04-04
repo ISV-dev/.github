@@ -8,6 +8,8 @@ ISV Company specializes in connecting elite technical talent with leading financ
 
 We go beyond traditional recruitment to create teams that reach maximum efficiency from day one.
 
+Our top priority is the growth and success of developers throughout their career journey.
+
 ### 📌 Key Advantages
 
 - **AI-Powered Matching**: Perfect team combinations
