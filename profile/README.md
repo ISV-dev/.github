@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=6D93DA&random=false&width=435&lines=<Independent+Software+Vendor/>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&pause=1000&color=6D93DA&random=false&width=435&weight=500&size=25&lines=<Independent+Software+Vendor/>)](https://git.io/typing-svg)
 
 ## ℹ️ About Us
 
